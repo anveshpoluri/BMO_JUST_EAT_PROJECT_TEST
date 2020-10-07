@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Functional_Testing">
+    <test name="Ordering_Food_on_Just_EAT">
+        <classes>
+            <class name="hsenid.BMO_JUSTEAT_TESTNG"/>
+
+        </classes>
+    </test>
+</suite>
